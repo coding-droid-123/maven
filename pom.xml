@@ -6,7 +6,7 @@
   <groupId>kmit.SE</groupId>
   <artifactId>se-maven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-
+<!-- Added a comment line in pom.xml to check CI/CD -->
   <name>se-maven</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
